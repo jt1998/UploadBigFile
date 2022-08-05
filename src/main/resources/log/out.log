@@ -1,0 +1,23 @@
+2022-08-03 15:55:29.558  INFO 17108 --- [main] c.f.xmemcached.XmemcachedApplication     : Starting XmemcachedApplication using Java 1.8.0_241 on 姜涛 with PID 17108 (D:\Java\IDEA202102\codespace\xmemcached\target\classes started by JT in D:\Java\IDEA202102\codespace\xmemcached)
+2022-08-03 15:55:29.562  INFO 17108 --- [main] c.f.xmemcached.XmemcachedApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-08-03 15:55:30.523  INFO 17108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 886 (http)
+2022-08-03 15:55:30.533  INFO 17108 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-03 15:55:30.533  INFO 17108 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-03 15:55:30.674  INFO 17108 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-03 15:55:30.674  INFO 17108 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1057 ms
+2022-08-03 15:55:30.904  INFO 17108 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-08-03 15:55:31.049  INFO 17108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 886 (http) with context path ''
+2022-08-03 15:55:31.059  INFO 17108 --- [main] c.f.xmemcached.XmemcachedApplication     : Started XmemcachedApplication in 2.166 seconds (JVM running for 3.631)
+2022-08-03 15:55:50.981  INFO 9292 --- [main] c.f.xmemcached.XmemcachedApplication     : Starting XmemcachedApplication using Java 1.8.0_241 on 姜涛 with PID 9292 (D:\Java\IDEA202102\codespace\xmemcached\target\classes started by JT in D:\Java\IDEA202102\codespace\xmemcached)
+2022-08-03 15:55:50.985  INFO 9292 --- [main] c.f.xmemcached.XmemcachedApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-08-03 15:55:51.959  INFO 9292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 886 (http)
+2022-08-03 15:55:51.969  INFO 9292 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-03 15:55:51.969  INFO 9292 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-03 15:55:52.108  INFO 9292 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-03 15:55:52.108  INFO 9292 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1072 ms
+2022-08-03 15:55:52.352  INFO 9292 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-08-03 15:55:52.500  INFO 9292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 886 (http) with context path ''
+2022-08-03 15:55:52.509  INFO 9292 --- [main] c.f.xmemcached.XmemcachedApplication     : Started XmemcachedApplication in 2.189 seconds (JVM running for 3.7)
+2022-08-03 15:56:05.978  INFO 9292 --- [http-nio-886-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-03 15:56:05.978  INFO 9292 --- [http-nio-886-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-03 15:56:05.979  INFO 9292 --- [http-nio-886-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
