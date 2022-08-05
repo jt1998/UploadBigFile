@@ -3,7 +3,7 @@ server:
 
 logging:
   file:
-    name: "D:/out.log"
+    name: "src/main/resources/log/out.log"
 
 
 
